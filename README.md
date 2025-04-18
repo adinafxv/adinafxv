@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @adinafxv, and I‘m a designer. Most of the time I design digital products, but I also love working on service design and brands.
-- 👀 I’m interested in the idea of Second Brain, keeping effective notes that promote further thinking
+- 👋 Hi, I’m @adinafxv,
+- 💻 I design digital products, but I also love working on service design and brands.
+- 👀 I’m interested in the idea of Second Brain, keeping effective notes that promote further thinking.
 - 🌱 I’m currently learning how to use new tools, as I haven‘t actively developed for a few years.
 - 💞️ I’m looking to collaborate on short-time projects to support causes like: mental health awareness, endometriosis awareness and research, internet literacy & privacy awareness
 - 📫 How to reach me - [LinkedIn](https://www.linkedin.com/in/adina-foxova) | [Twitter](https://twitter.com/AdinaFXV)
